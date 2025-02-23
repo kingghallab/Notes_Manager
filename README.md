@@ -10,7 +10,7 @@ A simple command-line-based note manager built using Java and MongoDB.
 ## 🔧 Installation
 ### 1️⃣ Clone the repository
 ```sh
-git clone <your-repo-url>
+git clone <github.com/kingghallab/Notes_Manager.git>
 cd NotesManagerV2
 ```
 
@@ -53,7 +53,7 @@ NotesManagerV2/
 │   │   │   ├── Main.java       # Application entry point
 │   │   │   ├── ConfigLoader.java # Loads configuration from properties
 │   │   ├── resources/
-│   │   │   ├── config.properties # Stores database connection info (ignored in Git)
+│   │   │   ├── config.properties # Stores database connection info
 │── pom.xml  # Maven dependencies
 │── .gitignore
 │── README.md
